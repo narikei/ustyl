@@ -1,0 +1,29 @@
+{
+  "name": "ustyl",
+  "version": "1.0.0",
+  "description": "Utility CSS",
+  "main": "ustyl.css",
+  "scripts": {
+    "build": "gulp css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narikei/ustyl.git"
+  },
+  "keywords": [
+    "css",
+    "utils"
+  ],
+  "author": "なりたけいすけ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narikei/ustyl/issues"
+  },
+  "homepage": "https://github.com/narikei/ustyl#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-stylus": "^2.6.0"
+  }
+}

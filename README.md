@@ -1,1 +1,3 @@
-# ustyl
+# UStyl
+
+CSS utility pakage
