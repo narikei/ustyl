@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Utility CSS",
   "main": "ustyl.css",
+  "style": "ustyl.css",
   "scripts": {
     "build": "gulp css"
   },
